@@ -1,0 +1,2 @@
+# -Convolutional-Neural-Network-for-Brain-Lesion-Segmentation-in-MRI-Images
+In this work, four popular deep convolutional neural networks (U-NET, DeepLab, FCN and SegNet) for image segmentation are constructed and compared. This comparison reveals the tradeoff between achieving effective segmentation and segmentation accuracy. Using deep learning, specifically convolutional neural network methods, to build and train models
